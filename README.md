@@ -49,6 +49,4 @@ I’ve added a short video showing how the LED turns ON as soon as the power goe
 
 ---
 
-## 📜 License
 
-MIT License — feel free to use it, remix it, or improve it! Just trying to solve small real-life problems ❤️
